@@ -1,4 +1,4 @@
-This repository contains code for the hydropower example from Martyr, Moriarty and Perninge, "Discrete-time risk-aware optimal switching with non-adapted costs".
+This repository contains code for the hydropower example from Martyr, Moriarty and Perninge, "Discrete-time risk-aware optimal switching with non-adapted costs", as a Jupyter notebook.
 
 A convenient way to run the code is from https://colab.research.google.com/ , by selecting Open notebook -> GitHub and entering its GitHub URL:
 
